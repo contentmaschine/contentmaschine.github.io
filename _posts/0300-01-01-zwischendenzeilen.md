@@ -6,7 +6,6 @@ align:
 <> date: 2025-06-01 18:48
 <> author: contentmaschine
 ---
-
 zwischen den Zeilen
 haben wir etwas neues gefunden
 uns den roten Faden um den Finger gebunden
