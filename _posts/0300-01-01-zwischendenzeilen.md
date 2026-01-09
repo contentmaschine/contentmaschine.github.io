@@ -2,6 +2,7 @@
 layout: post
 title: zwischen den Zeilen
 klappentext:
+align:
 <> date: 2025-06-01 18:48
 <> author: contentmaschine
 ---
